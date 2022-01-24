@@ -14,7 +14,7 @@
 - `jQuey`
 - `ReactJS`
 - `Rudex`
-- `Next Js`
+- `NextJs`
 - `Git`
 - `WebPack`
 - `Matrial-UI`
