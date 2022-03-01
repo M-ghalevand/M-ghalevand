@@ -14,6 +14,7 @@
 - `jQuey`
 - `ReactJS`
 - `Rudex`
+- `Next Pwa`
 - `NextJs`
 - `Git`
 - `WebPack`
