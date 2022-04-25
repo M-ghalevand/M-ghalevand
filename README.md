@@ -10,14 +10,17 @@
 - `Css3`
 - `Pug`
 - `Sass-Lass`
-- `Javascipt`
+- `JavaScipt`
+- `TypeScript`
 - `jQuey`
 - `ReactJS`
 - `Rudex`
+- `Redux Toolkit`
 - `Next Pwa`
 - `NextJs`
 - `Git`
 - `WebPack`
+- `tailwindcss`
 - `Matrial-UI`
 - `Bootstrap`
 
